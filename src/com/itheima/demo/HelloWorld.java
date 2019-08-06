@@ -12,6 +12,10 @@ public class HelloWorld {
 		String s ="余姝娟";
 		System.out.println(s);
 		
+		//这是第二次提交到git
+		int a=10;
+		System.out.println(a);
+		
 	}
 
 }
